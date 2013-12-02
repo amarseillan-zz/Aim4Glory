@@ -1,4 +1,3 @@
-aimForGlory
-===========
+Aim4Glory
 
-IOs game using COCOS2D
+iPhone game using Cocos2D
